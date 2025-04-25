@@ -64,11 +64,18 @@ After cleaning the data, I explored feature distributions and correlations using
 Model performance was evaluated using R² and RMSE scores. Feature importance metrics were also visualized to understand which inputs had the greatest influence on price.
 
 ## Key Insights
+- **Apartment size** (total area) is the most influential factor in determining price.
+- **Number of rooms and bathrooms** are also strongly correlated with higher pricing.
+- **Older buildings** generally tend to have lower prices, possibly due to aging infrastructure or outdated amenities.
+- Even without detailed geographic data, the model showed a strong ability to predict housing prices using structural and design features.
 
-- Apartment size was the strongest predictor of price
-- Number of rooms and bathrooms significantly influenced value
-- Older buildings tended to have lower prices
-- Even without detailed location data, the model produced reasonably accurate price estimates
+## Recommendations
+- **Real estate investors** should prioritize square footage and interior configurations (e.g., number of rooms) when evaluating value.
+- **Developers** can consider maximizing usable space over total floor count to appeal to pricing trends.
+- **Future improvements** could include adding city-level location data to refine predictions and deploying the model in a dashboard for broader access.
+
+This project demonstrates how data analytics can guide decision-making in the real estate space. It also shows the power of a clean dataset and well-selected features in driving useful, interpretable models.
+
 
 ## Conclusion
 
