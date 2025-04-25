@@ -90,3 +90,11 @@ You can run this notebook in Google Colab
 4. Paste this repo URL: `https://github.com/KaydenRumsey/DataAnalysisCapstone`
 5. Select the notebook file: `KaydenRumseyCapstonePolished.ipynb`
 6. Make sure to upload the dataset (`WorldRealEstateData.xlsx`) when prompted or manually
+
+## Acknowledgments
+- Dataset provided by [Kaggle](https://www.kaggle.com/).
+- Visualizations created with Matplotlib and Seaborn.
+
+## Author
+Kayden Rumsey - [GitHub Profile](https://github.com/KaydenRumsey/)
+
