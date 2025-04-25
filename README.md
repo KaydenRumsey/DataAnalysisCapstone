@@ -79,6 +79,14 @@ This project demonstrates a complete data analytics workflow:
 
 With further enhancements, such as incorporating geographic data or interactive dashboards, this work could be developed into a full real estate pricing tool.
 
-## How to Use
+## How to Run This Project
 
-Clone the repo or download the notebook file and run it in Jupyter Notebook or Google Colab. All steps are labeled and documented for ease of navigation.
+You can run this notebook in Google Colab
+
+### Google Colab 
+1. Go to [Google Colab](https://colab.research.google.com/)
+2. Click **"File" > "Open notebook"**
+3. Choose the **GitHub** tab
+4. Paste this repo URL: `https://github.com/KaydenRumsey/DataAnalysisCapstone`
+5. Select the notebook file: `KaydenRumseyCapstonePolished.ipynb`
+6. Make sure to upload the dataset (`WorldRealEstateData.xlsx`) when prompted or manually
