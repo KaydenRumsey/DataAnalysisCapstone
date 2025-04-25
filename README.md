@@ -1,6 +1,6 @@
 # Real Estate Price Prediction
 
-This project is part of my data analytics capstone. It explores a large global real estate dataset to identify patterns in housing prices and builds a predictive model to estimate apartment values based on key features.
+This project is my data analytics capstone. It explores a large global real estate dataset to identify patterns in housing prices and builds a predictive model to estimate apartment values based on key features.
 
 ## Project Overview
 
